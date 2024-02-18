@@ -1,0 +1,48 @@
+.button {
+    background:
+        border-radius: 100px;
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 22px 0;
+    font-weight: 700;
+    display: block;
+    width: 278px;
+
+    text-align: center;
+
+    transition: all 0.5s ease;
+    203 502 64
+}
+section {
+ padding-top: 120px;
+
+}
+
+ .feature {
+    display: flex;
+ align-items: center;
+     gap: 34px;
+    
+}
+
+ .feature-digit {
+     font-weight: 700;
+     font-size: 20px;
+     border: 1px solid #000000;
+    border-radius: 20px;
+ }
+
+ .container {
+    margin: 0 auto;    
+}
+    
+P {
+    margin: 0;
+}
+    
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
